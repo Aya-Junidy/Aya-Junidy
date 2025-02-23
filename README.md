@@ -3,8 +3,7 @@
 ## 🌐 Web Developer | Full-Stack Enthusiast | Problem Solver
 
 I'm a passionate **Web Developer** with a strong interest in **Front-End & Back-End Development**. I love building interactive web applications, solving coding challenges, and continuously expanding my skill set.
-
-💻 **Currently working as a Web Developer**  
+ 
 🌱 **I'm currently learning advanced JavaScript, React, and back-end technologies**  
 👨‍💻 **All of my projects are available on my GitHub**  
 📄 **Checkout my Portfolio** _(Coming soon)_  
